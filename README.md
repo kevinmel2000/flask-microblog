@@ -1,4 +1,4 @@
-flask-mega-tutorial
+flask-microblog
 ===================
 
-Implementation of the flask mega tutorial
+A microblog written in Python using the Flask framework.
